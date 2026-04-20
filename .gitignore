@@ -1,0 +1,16 @@
+# Obsidian workspace/cache files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Large attachments (optional; uncomment if needed)
+# _Attachments/*.mp4
+# _Attachments/*.zip
